@@ -1,0 +1,2472 @@
+{
+  "tipo": "RESULTADO_EXCLUSIVAMENTE_SINTETICO",
+  "integridad": {
+    "filas": 35,
+    "criterios": 700,
+    "sumas_consistentes": true,
+    "asistencias_faltantes": 2
+  },
+  "escenario_agregado": {
+    "desempeno_por_RA": "NOT_CALCULABLE",
+    "dice": "Puntos por componente, acumulados y asistencia",
+    "dice_parcialmente": "Composición evaluativa por componente",
+    "no_dice": "Actividad, criterio y RA que originan cada nota"
+  },
+  "escenario_ampliado": {
+    "trazabilidad": "VINCULOS_FICTICIOS_DISPONIBLES",
+    "logro_por_RA": "NO_SE_EMITE_DICTAMEN",
+    "limite": "Una relación estructural explícita no garantiza que el criterio sea válido ni que los puntos acrediten logro",
+    "rastreo": [
+      {
+        "persona_id": "DEMO-001",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 8,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-001",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 9,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-001",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 7,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-001",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 5,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-001",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 8,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-002",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 6,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-002",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 7,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-002",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 5,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-002",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 7,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-002",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 12,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-003",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 2,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-003",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 11,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-003",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 13,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-003",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 10,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-003",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 12,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-004",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 4,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-004",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 11,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-004",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 5,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-004",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 13,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-004",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 18,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-005",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 5,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-005",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 7,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-005",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 4,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-005",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 20,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-005",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 14,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-006",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 9,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-006",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 9,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-006",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 8,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-006",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 8,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-006",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 17,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-007",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 3,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-007",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 14,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-007",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 11,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-007",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 5,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-007",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 8,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-008",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 5,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-008",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 13,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-008",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 12,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-008",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 3,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-008",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 14,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-009",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 5,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-009",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 1,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-009",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 5,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-009",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 10,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-009",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 10,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-010",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 4,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-010",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 12,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-010",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 8,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-010",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 12,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-010",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 15,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-011",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 5,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-011",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 8,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-011",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 9,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-011",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 5,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-011",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 16,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-012",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 3,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-012",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 17,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-012",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 9,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-012",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 9,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-012",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 15,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-013",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 6,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-013",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 10,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-013",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 8,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-013",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 17,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-013",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 13,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-014",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 5,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-014",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 7,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-014",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 12,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-014",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 14,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-014",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 9,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-015",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 3,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-015",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 9,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-015",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 9,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-015",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 10,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-015",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 16,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-016",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 3,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-016",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 13,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-016",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 13,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-016",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 13,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-016",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 18,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-017",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 8,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-017",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 7,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-017",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 8,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-017",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 11,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-017",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 10,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-018",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 2,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-018",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 4,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-018",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 4,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-018",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 11,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-018",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 6,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-019",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 6,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-019",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 7,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-019",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 14,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-019",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 24,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-019",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 17,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-020",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 2,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-020",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 12,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-020",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 14,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-020",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 8,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-020",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 8,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-021",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 8,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-021",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 15,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-021",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 7,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-021",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 15,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-021",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 12,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-022",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 5,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-022",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 11,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-022",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 9,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-022",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 11,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-022",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 8,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-023",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 2,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-023",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 6,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-023",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 12,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-023",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 15,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-023",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 12,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-024",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 7,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-024",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 15,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-024",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 13,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-024",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 15,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-024",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 11,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-025",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 5,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-025",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 13,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-025",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 3,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-025",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 14,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-025",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 15,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-026",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 7,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-026",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 7,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-026",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 13,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-026",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 12,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-026",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 9,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-027",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 9,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-027",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 9,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-027",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 8,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-027",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 10,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-027",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 15,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-028",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 3,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-028",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 5,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-028",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 14,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-028",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 19,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-028",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 11,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-029",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 5,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-029",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 8,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-029",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 7,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-029",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 13,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-029",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 15,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-030",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 8,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-030",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 10,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-030",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 9,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-030",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 3,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-030",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 11,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-031",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 1,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-031",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 8,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-031",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 14,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-031",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 7,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-031",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 13,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-032",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 0,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-032",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 18,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-032",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 10,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-032",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 13,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-032",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 17,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-033",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 9,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-033",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 13,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-033",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 12,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-033",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 19,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-033",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 9,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-034",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 5,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-034",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 6,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-034",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 18,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-034",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 12,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-034",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 6,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-035",
+        "RA": "RA1",
+        "criterios": [
+          "SIM-U1-ND-C1",
+          "SIM-U1-NP-C1",
+          "SIM-U1-NTA-C1",
+          "SIM-U1-NE-C1"
+        ],
+        "puntos_registrados": 4,
+        "maximo": 10,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-035",
+        "RA": "RA2",
+        "criterios": [
+          "SIM-U2-ND-C1",
+          "SIM-U2-NP-C1",
+          "SIM-U2-NTA-C1",
+          "SIM-U2-NE-C1"
+        ],
+        "puntos_registrados": 12,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-035",
+        "RA": "RA3",
+        "criterios": [
+          "SIM-U3-ND-C1",
+          "SIM-U3-NP-C1",
+          "SIM-U3-NTA-C1",
+          "SIM-U3-NE-C1"
+        ],
+        "puntos_registrados": 8,
+        "maximo": 20,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-035",
+        "RA": "RA4",
+        "criterios": [
+          "SIM-U4-ND-C1",
+          "SIM-U4-NP-C1",
+          "SIM-U4-NTA-C1",
+          "SIM-U4-NE-C1"
+        ],
+        "puntos_registrados": 11,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      },
+      {
+        "persona_id": "DEMO-035",
+        "RA": "RA5",
+        "criterios": [
+          "SIM-U5-ND-C1",
+          "SIM-U5-NP-C1",
+          "SIM-U5-NTA-C1",
+          "SIM-U5-NE-C1"
+        ],
+        "puntos_registrados": 10,
+        "maximo": 25,
+        "logro": "NO_ACREDITADO_POR_ESTE_ANALISIS",
+        "tipo": "SINTETICO"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+# Especificación de producción
+
+Herramienta: image_gen integrada. Imagen nueva horizontal 16:9, fondo blanco, sin título superior. Verde institucional para las fuentes, ámbar para vínculos pendientes, conectores grises.
+
+Prompt: representar el recorrido esperado RA de unidad → Actividad ⇢ Criterio/ítem ⇢ Puntuación por criterio o ítem ⇢ Componente. Conector continuo únicamente para relación declarada RA-actividad; discontinuos para los vínculos sin evidencia suficiente en el corpus. Separar SÍLABO, que declara RA y anuncia tareas, de ACTA, que conserva puntos agregados. Zona intermedia identificada como vínculos no documentados en el corpus. Leyenda de ambos conectores, aclarando que relación declarada no significa logro probado. Conclusión inferior: brecha de trazabilidad, no se puede identificar el desempeño de cada RA con estas fuentes; la brecha entre registros no demuestra una falla del estudiante. Mejora: actividad, criterio y puntuación vinculados al RA. Fuente: sílabo y acta ADM16, síntesis metodológica. Sin datos inventados, promedios, estudiantes, señales de aprobado/reprobado ni título general.
+
+Inspección visual: sin título superior; etiquetas y conectores completos; la puntuación desagregada se distingue del componente registrado; leyenda y limitación visibles. La relación RA-actividad es la declarada por la planificación y no certifica coherencia plena ni ejecución. Los iconos son esquemáticos y no representan mediciones del caso.

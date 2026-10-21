@@ -1,0 +1,7 @@
+# Especificación del gráfico de diapositiva 7
+
+Herramienta: image_gen integrada, generación nueva, fondo blanco, horizontal 16:9.
+
+Prompt de producción: infografía académica didáctica en español para congreso, tipografía grande, verde institucional y gris para estructura, ámbar para límite de información. Título «¿Qué información conserva el acta?». Subtítulo «Matemáticas ADM16 · Final de ciclo · 35 registros». Área izquierda con ND Nota Docencia, NP Nota Práctica, NTA Nota Trabajo Autónomo y NE Nota Examen; cuatro conectores convergen en NF, suma de componentes del segundo ciclo, mostrando NF = ND + NP + NTA + NE. Asistencia separada, «Sobre 100», registro independiente de las notas, sin representar un valor observado. Área de acumulado TOT, puntos de primero y segundo ciclo; TOT = primer ciclo + segundo ciclo. Franja inferior «Límite de trazabilidad»: sin notas separadas por unidad, RA o criterio. Fuente acta p.1, nomenclatura aclarada por la investigadora. Sin nombres de estudiantes, QR, logos inventados, promedios, nuevas notas ni causalidad.
+
+Inspección: códigos y significados completos; relaciones de suma correctas; asistencia sin conexión con NF; distinción entre NF y TOT visible; límite de trazabilidad y fuente legibles. La independencia de asistencia se refiere a su registro como campo separado, no a independencia estadística del rendimiento. La imagen es una síntesis del acta, no un recorte documental.

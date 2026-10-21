@@ -1,0 +1,158 @@
+[
+  {
+    "id": "SIM-S1",
+    "periodo": "2025-A",
+    "institucion": "Instituto Horizonte Curricular — institución ficticia",
+    "asignatura": "Matemáticas para Gestión — ejemplo ficticio",
+    "docente": "Ines Nuvia — persona ficticia",
+    "firma": "Firma ficticia — sin validez",
+    "tipo": "SILABO_SINTETICO_RESUMIDO",
+    "objetivo": "Desarrollar pensamiento lógico y aplicación matemática en problemas de gestión",
+    "unidades": [
+      {
+        "unidad": 1,
+        "tema": "Ecuaciones lineales",
+        "RA": "Aplicar y resolver ecuaciones lineales en situaciones contextualizadas",
+        "taxonomia": "Aplicación",
+        "actividad": "Ejercicios y problemas",
+        "precision_adicional": null
+      },
+      {
+        "unidad": 2,
+        "tema": "Desigualdades",
+        "RA": "Aplicar desigualdades y método gráfico a problemas",
+        "taxonomia": "Aplicación",
+        "actividad": "Ejercicios y problemas",
+        "precision_adicional": null
+      },
+      {
+        "unidad": 3,
+        "tema": "Ecuación de la recta",
+        "RA": "Identificar la ecuación, analizar la pendiente y graficar",
+        "taxonomia": "Comprensión",
+        "actividad": "Ejercicios, gráficas y evidencia contextual",
+        "precision_adicional": null
+      },
+      {
+        "unidad": 4,
+        "tema": "Funciones",
+        "RA": "Calcular operaciones con funciones logarítmicas en problemas",
+        "taxonomia": "Aplicación",
+        "actividad": "Ejercicios y problemas",
+        "precision_adicional": null
+      },
+      {
+        "unidad": 5,
+        "tema": "Matrices y simplex",
+        "RA": "Aplicar matrices a optimización mediante simplex",
+        "taxonomia": "Aplicación",
+        "actividad": "Ejercicios y problemas",
+        "precision_adicional": null
+      }
+    ]
+  },
+  {
+    "id": "SIM-S2",
+    "periodo": "2025-B",
+    "institucion": "Instituto Horizonte Curricular — institución ficticia",
+    "asignatura": "Matemáticas para Gestión — ejemplo ficticio",
+    "docente": "Ines Nuvia — persona ficticia",
+    "firma": "Firma ficticia — sin validez",
+    "tipo": "SILABO_SINTETICO_RESUMIDO",
+    "objetivo": "Desarrollar pensamiento lógico y aplicación matemática en problemas de gestión",
+    "unidades": [
+      {
+        "unidad": 1,
+        "tema": "Ecuaciones lineales",
+        "RA": "Aplicar y resolver ecuaciones lineales en situaciones contextualizadas",
+        "taxonomia": "Aplicación",
+        "actividad": "Ejercicios y problemas",
+        "precision_adicional": null
+      },
+      {
+        "unidad": 2,
+        "tema": "Desigualdades",
+        "RA": "Aplicar desigualdades y método gráfico a problemas",
+        "taxonomia": "Aplicación",
+        "actividad": "Ejercicios y problemas",
+        "precision_adicional": null
+      },
+      {
+        "unidad": 3,
+        "tema": "Ecuación de la recta",
+        "RA": "Identificar la ecuación, analizar la pendiente y graficar",
+        "taxonomia": "Comprensión",
+        "actividad": "Ejercicios, gráficas y evidencia contextual",
+        "precision_adicional": null
+      },
+      {
+        "unidad": 4,
+        "tema": "Funciones",
+        "RA": "Calcular operaciones con funciones logarítmicas en problemas",
+        "taxonomia": "Aplicación",
+        "actividad": "Ejercicios y problemas",
+        "precision_adicional": null
+      },
+      {
+        "unidad": 5,
+        "tema": "Matrices y simplex",
+        "RA": "Aplicar matrices a optimización mediante simplex",
+        "taxonomia": "Aplicación",
+        "actividad": "Ejercicios y problemas",
+        "precision_adicional": null
+      }
+    ]
+  },
+  {
+    "id": "SIM-S3",
+    "periodo": "2026-B",
+    "institucion": "Instituto Horizonte Curricular — institución ficticia",
+    "asignatura": "Matemáticas para Gestión — ejemplo ficticio",
+    "docente": "Ines Nuvia — persona ficticia",
+    "firma": "Firma ficticia — sin validez",
+    "tipo": "SILABO_SINTETICO_RESUMIDO",
+    "objetivo": "Desarrollar pensamiento lógico y aplicación matemática en problemas de gestión",
+    "unidades": [
+      {
+        "unidad": 1,
+        "tema": "Ecuaciones lineales",
+        "RA": "Aplicar y resolver ecuaciones lineales en situaciones contextualizadas",
+        "taxonomia": "Aplicación",
+        "actividad": "Ejercicios y problemas",
+        "precision_adicional": "Formulación de problemas; ensayo argumentativo; portafolio reflexivo según unidad"
+      },
+      {
+        "unidad": 2,
+        "tema": "Desigualdades",
+        "RA": "Aplicar desigualdades y método gráfico a problemas",
+        "taxonomia": "Aplicación",
+        "actividad": "Ejercicios y problemas",
+        "precision_adicional": "Formulación de problemas; ensayo argumentativo; portafolio reflexivo según unidad"
+      },
+      {
+        "unidad": 3,
+        "tema": "Ecuación de la recta",
+        "RA": "Identificar la ecuación, analizar la pendiente y graficar",
+        "taxonomia": "Comprensión",
+        "actividad": "Ejercicios, gráficas y evidencia contextual",
+        "precision_adicional": "Formulación de problemas; ensayo argumentativo; portafolio reflexivo según unidad"
+      },
+      {
+        "unidad": 4,
+        "tema": "Funciones",
+        "RA": "Calcular operaciones con funciones logarítmicas en problemas",
+        "taxonomia": "Aplicación",
+        "actividad": "Ejercicios y problemas",
+        "precision_adicional": "Formulación de problemas; ensayo argumentativo; portafolio reflexivo según unidad"
+      },
+      {
+        "unidad": 5,
+        "tema": "Matrices y simplex",
+        "RA": "Aplicar matrices a optimización mediante simplex",
+        "taxonomia": "Aplicación",
+        "actividad": "Ejercicios y problemas",
+        "precision_adicional": "Formulación de problemas; ensayo argumentativo; portafolio reflexivo según unidad"
+      }
+    ]
+  }
+]

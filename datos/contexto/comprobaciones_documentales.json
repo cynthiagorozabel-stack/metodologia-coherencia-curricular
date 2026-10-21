@@ -1,0 +1,25 @@
+{
+  "tipo": "RESULTADO_DOCUMENTAL_DEL_CASO_NO_SINTETICO",
+  "verificaciones": {
+    "tabla_III_S1_S2_identica": true,
+    "tabla_III_S2_S3_identica": true,
+    "contenidos_por_unidad_S1_S2": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "contenidos_por_unidad_S2_S3": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "filas": 35,
+    "sumas_NF_validas": 35,
+    "rangos_compatibles": 35
+  },
+  "nota": "No incluye registros individuales ni identificadores de archivos reales. Verificación aritmética corresponde al original reservado, no al escenario ficticio."
+}

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Si utiliza este trabajo, conserve la autoría y cite este repositorio. Uso exclusivamente no comercial: consulte LICENSE."
+title: "Metodología de coherencia curricular: indicadores, fichas y ejemplos sintéticos"
+type: software
+version: 1.0.0
+date-released: 2026-10-21
+authors:
+  - family-names: Gorozabel Villavicencio
+    given-names: Cynthia Mercedes
+repository-code: https://github.com/cynthiagorozabel-stack/metodologia-coherencia-curricular
+license: LicenseRef-Uso-No-Comercial-Con-Atribucion
